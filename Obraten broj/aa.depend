@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515435785 source:c:\users\dario\desktop\obraten broj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

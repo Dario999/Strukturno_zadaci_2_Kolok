@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515802856 source:c:\users\dario\desktop\gim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

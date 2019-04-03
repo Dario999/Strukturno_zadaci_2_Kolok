@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512156386 source:c:\users\dario\desktop\faktoriel\main.c
+	<stdio.h>
+	<stdlib.h>
+

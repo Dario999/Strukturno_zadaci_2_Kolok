@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1515773452 source:c:\users\dario\desktop\yuio\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1515774387 source:c:\users\dario\desktop\datoteka so brojki\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

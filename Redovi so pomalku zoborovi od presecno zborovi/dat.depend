@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1515862798 source:c:\users\dario\desktop\dat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1515862798 source:c:\users\dario\desktop\strukturno zadaci 2 kolokvium\redovi so pomalku zoborovi od presecno zborovi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
